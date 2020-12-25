@@ -1,0 +1,4 @@
+p,superAdmin,/article/*,*
+p,superAdmin,/admin/*,*
+p,*,/home/*,*
+p,user,/article/*,*
